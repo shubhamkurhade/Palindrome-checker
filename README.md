@@ -4,7 +4,7 @@ This is part of my mini projects - 4/7
 
 Project Title: Palindrome checking application using Javascript
 
-Please visit the project using this link: https://shubhamkurhade.github.io/to-do-taskPlanner/
+Please visit the project using this link: https://shubhamkurhade.github.io/Palindrome-checker/
 -------------------------------
 
 What is Palindrome = A palindrome is a word or a phrase that is the same whether you read it backwards or forwards;
