@@ -3,6 +3,7 @@
 This is part of my mini projects - 4/7
 
 Project Title: Palindrome checking application using Javascript
+Idea behid this: LeetCode Question: Valid Palindrome (https://leetcode.com/problems/valid-palindrome/)
 
 Please visit the project using this link: https://shubhamkurhade.github.io/Palindrome-checker/
 -------------------------------
